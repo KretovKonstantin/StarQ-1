@@ -1,0 +1,32 @@
+Email: meruert@late.kz
+Photo: WIN_20231110_17_01_21_Pro.jpg
+Height: 162
+Weight: 55
+Parameters: 85/65/95
+Hair Color: Каштановые
+Eye Color: Карие
+Nationality: Казашка
+Age: 19
+Gender: Женский
+Work: Студентка
+Contacts: 87072002004
+Education: Университет Нархоз 
+Participation: нет опыта
+Portfolio: Резюме (1).pdf
+
+Email: meruert@late.kz
+Photo: 3.jpg
+Height: 162
+Weight: 23
+Parameters: 12312414
+Hair Color: выпывп
+Eye Color: выпывп
+Nationality: ывпып
+Age: 19
+Gender: Женский
+Work: выпыавп
+Contacts: ывпвп
+Education: ывпывп
+Participation: ывпывп
+Portfolio: ContinuousRV (2).pdf
+
